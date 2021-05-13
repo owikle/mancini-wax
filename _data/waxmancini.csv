@@ -1,5 +1,5 @@
-pid,creator,label,_date,object_type,images
-1672_07_14_mm2os,Marie Mancini,lett 04 Marie to Ortensia Stella,1672-07-14,letter,DSCF8221;DSCF8222;DSCF8223
-1672_08_01_mm2lc,Marie Mancini,lett 05 Marie to Lorenzo,1672-08-01,letter,DSCF8469;DSCF8470;DSCF8471
-1672_09_05_a_mm2os,Marie Mancini,lett 534 Marie to Ortensia Stella,1672-09-05,letter,DSCF8200;DSCF8201;DSCF8202
-1672_09_05_b_mm2os,Marie Mancini,lett Marie to Ortensia Stella,1672-09-05,letter,DSCF8209;DSCF8210
+pid,creator,label,_date,object_type,images,order,layout,collection,thumbnail,full,manifest
+1672_07_14_mm2os,Marie Mancini,lett 04 Marie to Ortensia Stella,1672-07-14,letter,DSCF8221;DSCF8222;DSCF8223,0,qatar_item,mancini,"/img/derivatives/iiif/images/1672_07_14_mm2os_DSCF8221/full/250,/0/default.jpg","/img/derivatives/iiif/images/1672_07_14_mm2os_DSCF8221/full/1140,/0/default.jpg",/img/derivatives/iiif/1672_07_14_mm2os/manifest.json
+1672_08_01_mm2lc,Marie Mancini,lett 05 Marie to Lorenzo,1672-08-01,letter,DSCF8469;DSCF8470;DSCF8471,1,qatar_item,mancini,"/img/derivatives/iiif/images/1672_08_01_mm2lc_DSCF8469/full/250,/0/default.jpg","/img/derivatives/iiif/images/1672_08_01_mm2lc_DSCF8469/full/1140,/0/default.jpg",/img/derivatives/iiif/1672_08_01_mm2lc/manifest.json
+1672_09_05_a_mm2os,Marie Mancini,lett 534 Marie to Ortensia Stella,1672-09-05,letter,DSCF8200;DSCF8201;DSCF8202,2,qatar_item,mancini,"/img/derivatives/iiif/images/1672_09_05_a_mm2os_DSCF8200/full/250,/0/default.jpg","/img/derivatives/iiif/images/1672_09_05_a_mm2os_DSCF8200/full/1140,/0/default.jpg",/img/derivatives/iiif/1672_09_05_a_mm2os/manifest.json
+1672_09_05_b_mm2os,Marie Mancini,lett Marie to Ortensia Stella,1672-09-05,letter,DSCF8209;DSCF8210,3,qatar_item,mancini,"/img/derivatives/iiif/images/1672_09_05_b_mm2os_DSCF8209/full/250,/0/default.jpg","/img/derivatives/iiif/images/1672_09_05_b_mm2os_DSCF8209/full/1140,/0/default.jpg",/img/derivatives/iiif/1672_09_05_b_mm2os/manifest.json
