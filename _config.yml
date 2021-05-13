@@ -18,10 +18,10 @@
 # Feel free to change these! For more info, refer to:
 # ~> https://jekyllrb.com/docs/configuration/options/
 
-title:            'Wax'
+title:            'Mancini Test'
 description:      'Minimal Exhibitions with Jekyll'
-url:              'https://minicomp.github.io'
-baseurl:          '/wax'
+url:              'https://owikle.github.io'
+baseurl:          '/wax-demo'
 copyright:        'Example copyright org, 2019'
 logo:             '/assets/logo.png'
 
@@ -68,9 +68,9 @@ collections:
     output: true # makes sure pages are output as html files
     layout: 'qatar_item' # the layout for the pages to use
     metadata:
-      source: 'qatar.csv' # path to the metadata file within `_data`
+      source: 'waxmancini.csv' # path to the metadata file within `_data`
     images:
-      source: 'raw_images/qatar' # path to the directory of images within `_data`
+      source: 'raw_images/mancini' # path to the directory of images within `_data`
 
 # --------------------------------------------------------------
 # SEARCH INDEX SETTINGS
@@ -84,15 +84,13 @@ search:
   main:
     index: '/search/index.json' # file the index will get written to
     collections:
-      qatar:
+      mancini:
         content: false # whether or not to index page content
         fields: # the metadata fields to index
-          - artist
-          - location
+          - creator
           - label
           - _date
           - object_type
-          - current_location
 
 # --------------------------------------------------------------
 # SITE MENU SETTINGS
