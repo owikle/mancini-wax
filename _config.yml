@@ -20,7 +20,7 @@
 
 title:            'Mancini Test'
 description:      'Minimal Exhibitions with Jekyll'
-url:              'https://owikle.github.io'
+url:              'http://127.0.0.1:4000'
 baseurl:          '/wax-demo'
 copyright:        'Example copyright org, 2019'
 logo:             '/assets/logo.png'
